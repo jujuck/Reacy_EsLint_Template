@@ -1,4 +1,4 @@
-# React Simple Boilerplate
+# React configuré avec ESLINT pour lancement de projet
 
 Already intalled and configured:
 * ESLint (airbnb)
